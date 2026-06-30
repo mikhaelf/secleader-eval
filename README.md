@@ -46,16 +46,22 @@ Go to [GitHub Releases](https://github.com/mikhaelf/secleader-eval/releases) and
 
 ![Downloaded secleader-eval.skill file](docs/images/01-download-skill.png)
 
-### 2. Upload to Claude
+### 2. Install in Claude
+
+**Option A — Mac (fastest)**
+
+1. In Finder, locate `secleader-eval.skill` (usually in Downloads).
+2. **Double-click** the file — Claude opens (or comes to the front) and starts the install flow.
+
+**Option B — Upload via Claude web app**
 
 1. Open [Claude](https://claude.ai) and sign in.
-2. Click your **profile menu** (bottom-left) → **Settings**.
-3. Go to **Capabilities** → **Skills**.
-4. Click **Upload skill** and select the `secleader-eval.skill` file you downloaded.
+2. Open the **sidebar menu** → **Customize** → **Skills**.
+3. Click **Upload skill** (or drag-and-drop `secleader-eval.skill`).
 
 ### 3. Add to your library
 
-Claude shows a preview of the skill contents. Review them, then click **Add to library**.
+Whichever method you use, Claude shows a preview of the skill contents. Review them, then click **Add to library**.
 
 ![Add secleader-eval to your library](docs/images/02-add-to-library.png)
 
