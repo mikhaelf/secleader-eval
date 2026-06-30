@@ -174,11 +174,11 @@ Produce the report in this exact structure:
 | **VP (this role)** | **[X%]**       | [source] | [confidence]   |
 | Director           | [X%]           | [source] | [confidence]   |
 
-[1 sentence on total comp at target (base + bonus target + annualized equity) and whether that's competitive for this market.]
+[1 sentence on total comp at target (base + bonus target + annualized equity) and whether that's competitive for this market. Label estimates clearly; never present crowd-sourced or inferred comp as confirmed.]
 
 ## Culture & Sentiment
 
-[2–3 sentences: Glassdoor/Blind ratings, key themes, red flags worth probing in interviews.]
+[2–3 sentences: Glassdoor/Blind ratings and **reported themes** from named sources — frame negatives as "employees report…" or "reviews cite…", not established fact. Flag red flags worth probing in interviews. Do not name private individuals; public executives cited in the JD or company materials are fine.]
 
 ## Regulatory Context
 
@@ -199,7 +199,7 @@ Only invoke the split when role and company genuinely point different directions
 
 ## Sources
 
-List URLs or sources consulted per section. If a data point had no reliable source, mark it "estimated" or "unavailable."
+List URLs or sources consulted per section. If a data point had no reliable source, mark it "estimated" or "unavailable." Every report must include this section — do not omit it.
 
 ---
 

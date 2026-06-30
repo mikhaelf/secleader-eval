@@ -123,6 +123,8 @@ Work arrangement (onsite, hybrid, remote) is reported as a neutral fact — not 
 
 This skill is **not employment, legal, or financial advice**. Outputs are based on public sources and may be incomplete, outdated, or incorrect. Do not paste confidential recruiter communications, unpublished compensation details, or proprietary job descriptions. Verify all findings independently before making career decisions. Respect the terms of service of third-party sites (Glassdoor, Blind, LinkedIn, etc.) when researching.
 
+When you use this skill, your inputs are processed by [Claude / Anthropic](https://www.anthropic.com/privacy) — this repository does not operate a backend or collect user data. Do not republish generated reports as factual statements about employers. This tool is for **your own** career decisions only; do not use it for hiring, firing, or HR screening of others.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
