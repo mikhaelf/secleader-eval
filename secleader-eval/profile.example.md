@@ -5,13 +5,12 @@ Copy this file to `profile.md` in the same directory as the installed skill to a
 ```markdown
 # My eval preferences
 
-Function: security
-Target level: VP / Head / Director
+Function: [security / engineering / product / data / other]
+Target level: [Director / VP / C-level]
 
 Hard pass:
-- Contract or 1099 roles
-- Field-CISO / sales-overlay roles with no internal headcount
-- No benefits
+- [Add dealbreakers here, e.g. contract-only or no-benefits roles]
+- [Add role-type exclusions here, e.g. field-advisory overlay roles]
 
 Always ask in recommendation:
 - MIP/STI target % for the band
